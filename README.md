@@ -44,12 +44,12 @@ Sistema de CRUD seguindo o modelo API REST para ser consumido futuramente pelo G
 ```
 :~$ cd <pasta do projeto>
 :~$ yarn
-ou
-:~$ npm install
 ```
-### Como excutar o projeto?
+### Como executar o projeto?
 ```
-:~$ yarn start
-ou
-:~$ npm start
+:~$ yarn dev
+```
+### Para executar e manter em funcionando a fila de e-mails
+```
+:~$ yarn queue
 ```

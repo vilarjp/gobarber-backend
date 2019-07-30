@@ -49,7 +49,7 @@ Sistema de CRUD seguindo o modelo API REST para ser consumido futuramente pelo G
 ```
 :~$ yarn dev
 ```
-### Para executar e manter em funcionando a fila de e-mails
+### Para executar e manter em funcionamento a fila de e-mails
 ```
 :~$ yarn queue
 ```

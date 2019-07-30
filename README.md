@@ -3,7 +3,7 @@
 
 Sistema de CRUD seguindo o modelo API REST para ser consumido futuramente pelo GoBarber - front end.
 
-Detalhes da aplicação:
+### Detalhes da aplicação:
 
 - [sentry](https://sentry.io/for/node/) para registro de logs de erro em tempo real
 - [bcryptjs](https://github.com/dcodeIO/bcrypt.js/) para encriptação da senha dos usuários

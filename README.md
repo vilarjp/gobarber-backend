@@ -23,6 +23,20 @@ Sistema de CRUD seguindo o modelo API REST para ser consumido futuramente pelo G
 
 - [docker](https://www.docker.com/) como container para as imagens dos bancos de dados da aplicação
 
+### Rotas:
+
+- /providers/:id/available GET
+- /notifications GET
+- /notifications/:id PUT
+- /schedule GET
+- /sessions POST
+- /files POST
+- /appointments POST
+- /appointments/:id DELETE
+- /appointments GET
+- /providers GET
+- /users POST
+- /users PUT
 
 ## Principais Comandos
 
